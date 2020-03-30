@@ -20,4 +20,5 @@ Description:
 3. In this Application First I am Adding the dependecies in pom.xml
 4. And I am Creating the spring.xml file and adding the properties.
 5. Created a Controller Part 
+In Controller Part I am Adding Annotation Like @Configuration.@bean .
 6. And run it .
